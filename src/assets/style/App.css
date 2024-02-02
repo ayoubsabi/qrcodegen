@@ -36,6 +36,10 @@
 .offcanvas-start {
   transition: transform 0.3s ease-in-out, visibility 0.3s ease-in-out !important;
   width: 25vw;
+
+  @media (max-width: 767px) {
+    width: 75vw;
+  }
 }
 
 .btn-success {
