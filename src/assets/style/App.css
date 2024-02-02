@@ -117,3 +117,7 @@ hr {
 .header {
   background-color: #6a1a4c;
 }
+
+.footer {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
